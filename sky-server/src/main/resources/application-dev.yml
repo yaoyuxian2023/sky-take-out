@@ -5,7 +5,7 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: 6825
+    password: 0000
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
     access-key-id: LTAI5tGAR91nZzkMSUgvQzNB
@@ -14,7 +14,7 @@ sky:
   redis:
     host: localhost
     port: 6379
-    password: xiaoxian718
+    password: 0000
     database: 10
   wechat:
     appid: wx000f9ed0e66bdccb
